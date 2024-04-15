@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aXYMxO25cWLgaJfbaUEC/8JMsIzIj9y0bubLdCKX6+d94MntoTLMNrHBD7VBOlxCfB3D92RK3gmCp5+kVQw2WQ==",
+  "dgSpecHash": "lcPxFIiBXbbejkLGKaKd6SrVcxVtu9hHuQApZnEMYcpOa9x9cUpQWYemr2q7JCzXPSnnenHoQjrPzHHTeuxzxQ==",
   "success": true,
-  "projectFilePath": "C:\\MAUI\\TranspotationManagment\\TranspotationManagment\\MagicBrickFrontend.csproj",
+  "projectFilePath": "C:\\MagicRent\\TranspotationManagment\\MagicBrickFrontend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dotnet\\.nuget\\packages\\communitytoolkit.maui\\7.0.1\\communitytoolkit.maui.7.0.1.nupkg.sha512",
     "C:\\Users\\Dotnet\\.nuget\\packages\\communitytoolkit.maui.core\\7.0.1\\communitytoolkit.maui.core.7.0.1.nupkg.sha512",

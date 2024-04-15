@@ -34667,11 +34667,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MAUI\\TranspotationManagment\\TranspotationManagment\\MagicBrickFrontend.csproj",
+      "projectUniqueName": "C:\\MagicRent\\TranspotationManagment\\MagicBrickFrontend.csproj",
       "projectName": "MagicBrickFrontend",
-      "projectPath": "C:\\MAUI\\TranspotationManagment\\TranspotationManagment\\MagicBrickFrontend.csproj",
+      "projectPath": "C:\\MagicRent\\TranspotationManagment\\MagicBrickFrontend.csproj",
       "packagesPath": "C:\\Users\\Dotnet\\.nuget\\packages\\",
-      "outputPath": "C:\\MAUI\\TranspotationManagment\\TranspotationManagment\\obj\\",
+      "outputPath": "C:\\MagicRent\\TranspotationManagment\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
